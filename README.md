@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently a third year studying at University of Science - VNUHCM.
+This GitHub will mostly contain projects I worked/ is working on.
+
 <!--
 **praiseTheSunn/praiseTheSunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
